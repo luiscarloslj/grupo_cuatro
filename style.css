@@ -81,7 +81,7 @@ ul li {
         display: none;
     }
 
-    nav h2:hover > nav a {
+    nav h2:hover > a {
         background-color: black;
         display: block;
     }
