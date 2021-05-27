@@ -26,6 +26,10 @@ nav {
   text-align: center;
   padding-top: 2.5%;
 }
+
+a:visited {
+  color: #000;
+}
 nav a,
 h2 {
   text-align: center;
