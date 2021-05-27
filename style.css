@@ -77,14 +77,16 @@ ul li {
                
     }
 
-    nav a {
+    #links {
         display: none;
     }
 
-    nav h2:hover > a {
-        background-color: black;
-        display: block;
+    #menu:hover {
+        background-color: white;
+        
+        
     }
+
     .section-container {
         padding: 2%;
         background-color: lightblue;
